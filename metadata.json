@@ -1,0 +1,8 @@
+{
+  "name": "Pisellfy",
+  "description": "A decentralized freelance marketplace like Fiverr built for the Pi Network ecosystem, featuring AI-powered gig creation and service matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
